@@ -6,7 +6,7 @@ license: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 date: auto
 ---
 
-# Usage des objets
+# Usage des objets 
 
 ## Des objets partout !
 
