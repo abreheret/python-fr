@@ -46,7 +46,7 @@ True
 True
 ```
 
-<details><summary>
+<details><summary> 
 #### 🤔 Alors `42` serait un objet, pas un entier? 
 </summary>
 
